@@ -1,0 +1,15 @@
+body {
+    font: normal 18pt arial;
+    background-color: rgba(0, 0, 0, 0.096);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.082);
+}
+input {
+    font: normal 18pt arial;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.322);
+}
+#res {
+    margin-top: 20px;
+    text-decoration: underline;
+}
